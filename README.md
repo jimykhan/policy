@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Privacy Policy - Flex Credit App</title>
   <style>
-    body {
+/*     body {
       font-family: Arial, sans-serif;
       max-width: 800px;
       margin: 40px auto;
@@ -15,7 +15,7 @@
     }
     h1 {
       color: #2c3e50;
-    }
+    } */
   </style>
 </head>
 <body>
